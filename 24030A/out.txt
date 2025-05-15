@@ -1,0 +1,4 @@
+Dir1
+Dir2
+new
+out.txt
